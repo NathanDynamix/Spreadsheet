@@ -1,0 +1,46 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "main": "eslint.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nivo/sunburst": "^0.99.0",
+    "@tailwindcss/vite": "^4.1.11",
+    "bootstrap": "^5.3.7",
+    "date-fns": "^4.1.0",
+    "firebase": "^12.0.0",
+    "hot-formula-parser": "^4.0.0",
+    "html2canvas": "^1.4.1",
+    "lucide-react": "^0.525.0",
+    "mathjs": "^14.5.3",
+    "papaparse": "^5.5.3",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-gauge-chart": "^0.5.1",
+    "react-is": "^19.1.0",
+    "react-rnd": "^10.5.2",
+    "react-router-dom": "^7.6.3",
+    "recharts": "^3.0.2",
+    "sonner": "^2.0.6",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.6.0",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.17",
+    "vite": "^7.0.2"
+  }
+}
